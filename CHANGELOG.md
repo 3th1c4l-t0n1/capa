@@ -25,7 +25,8 @@
 ### Bug Fixes
 - extractor: fix vivisect loop detection corner case #1310 @mr-tz
 - match: extend OS characteristic to match OS_ANY to all supported OSes #1324 @mike-hunhoff
-- extractor: fix IDA and vivisect string and bytes features overlap and tests #1327 #1336 @xusheng6 
+- extractor: fix IDA and vivisect string and bytes features overlap and tests #1327 #1336 @xusheng6
+- extractor: update vivisect Arch extraction #1334 @mr-tz
 
 ### capa explorer IDA Pro plugin
 
